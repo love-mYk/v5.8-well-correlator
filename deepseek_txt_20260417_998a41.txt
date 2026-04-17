@@ -1,0 +1,8 @@
+# WellCorrelator v5.8 依赖
+# 用于 DTW 对比、测井文件读取及 GUI 界面
+
+numpy>=1.24.0
+pandas>=2.0.0
+lasio>=0.31
+PyQt6>=6.5.0
+pyqtgraph>=0.13.0
